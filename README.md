@@ -3,7 +3,7 @@
 ### Project Overview
 A real-time, dual-axis autonomous face-tracking camera gimbal engineered using a Raspberry Pi, OpenCV, and direct PWM motor control. The system continuously processes a live video feed, calculates spatial error coordinates, and mechanically drives two SG90 servo motors to keep a target dynamically locked in the center of the frame.
 
-*(Tip: Upload a GIF or photo of your gimbal moving on your desk and put it right here!)*
+https://github.com/user-attachments/assets/d201e338-3fd5-4509-a0cf-f29e023a4583
 
 ---
 
